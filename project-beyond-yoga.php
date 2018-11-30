@@ -5,7 +5,7 @@
 	<section class="maincontent">
 		
 		<div class="intro-wrapper aos-item" data-aos="fade-up" data-aos-delay="300">
-			<h2 class="intro-heading" >Prism</h2>
+			<h2 class="intro-heading" >Beyond Yoga</h2>
 			<p class="intro-copy">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ullamcorper dolor id diam fermentum, eu pulvinar mauris hendrerit. Aenean eleifend arcu et cursus condimentum. Suspendisse vitae dictum mauris, in lobortis tellus. Phasellus commodo hendrerit turpis non laoreet. Pellentesque vitae placerat nulla, vel facilisis augue. </p>
 			
 			<div class="details">
@@ -40,18 +40,16 @@
 		</div><!--intro-wrapper-->
 		
 	<div class="project-image-wrapper">	
-		<div class="two-column aos-item" data-aos="fade-up" data-aos-delay="300">
-			<img class="interior-project-image" src="img/projects/prism/Prism_384.jpg">
-		</div>
-		<div class="two-column aos-item" data-aos="fade-up" data-aos-delay="300">
-			<img class="interior-project-image"  src="img/projects/prism/Prism_393.jpg">
+		<div class="one-column aos-item" data-aos="fade-up" data-aos-delay="300">
+			<img class="interior-project-image" src="img/projects/beyond-yoga/beyond-yoga-how-you-glow-4-magic.jpg">
 		</div>
 		<div class="one-column aos-item" data-aos="fade-up" data-aos-delay="300">
-			<img class="interior-project-image"  src="img/projects/prism/Prism_421.jpg">
+			<img class="interior-project-image"  src="img/projects/beyond-yoga/beyondyoga-magic.jpg">
 		</div>
-		
-		<div class="clear"></div>
-	</div><!--project-image-wrapper-->
+		<div class="one-column aos-item" data-aos="fade-up" data-aos-delay="300">
+			<img class="interior-project-image"  src="img/projects/beyond-yoga/IMG_1864-copy-1200x800.jpg">
+		</div>
+	</div>
 
 		<div class="clear"></div>
 	</section>

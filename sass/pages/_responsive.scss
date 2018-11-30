@@ -6,6 +6,16 @@
 	
 }
 
+@media only screen and (max-width: 1000px){
+	.details .details-inner{
+		float: none;
+		width: 100%;
+		margin-bottom: 30px;
+		
+		
+	}
+}
+
 @media only screen and (max-width: 768px){
 
 	header{
@@ -27,7 +37,7 @@
 	.intro-copy{
 		width: 100%;
 	}
-	
+	.three-column,
 	.two-column{
 		float: none;
 		width: calc(100% - 40px); 	

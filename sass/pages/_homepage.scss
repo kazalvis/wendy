@@ -25,6 +25,10 @@ header{
 	    margin: 0;
 	      transition: opacity 0.3s;
   -webkit-transition: opacity 0.3s;
+  	a{
+	  color: #222222;
+	  text-decoration: none;
+  	}
 	    
     }
     
@@ -126,11 +130,12 @@ header{
 		line-height: 28px;
 		width: 83%;
 		margin: 0px 0 0px 0;
+		
     }
     
     
     .intro-wrapper{
-	    margin: 40px 0 50px 0;
+	    margin: 60px 0 50px 0;
     }
     
 

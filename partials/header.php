@@ -16,7 +16,7 @@
   <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="js/vendor/aos.css">
     <link rel="stylesheet" href="js/vendor/slick.css">
-<link href="https://fonts.googleapis.com/css?family=Hind|Roboto:300,400,900|Work+Sans:300,400" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Hind:300,400|Roboto:300,400,900|Work+Sans:300,400,500" rel="stylesheet">
 </head>
 
 <body>
@@ -25,7 +25,7 @@
   <![endif]-->
 
 	<header>
-		<h1>Wendy Martinez</h1>
+		<h1><a href="index.php">Wendy Martinez</a></h1>
 		<div class="hamburgerMenu closed">
 			<span class=" line line-1"></span>
 			<span class=" line line-2"></span>
