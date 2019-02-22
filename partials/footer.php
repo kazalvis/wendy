@@ -1,5 +1,13 @@
 <footer>
 
+<div class="social-wrapper">
+	
+</div>
+
+<div class="legal-wrapper">
+	<p>Copyright 2019 Wendy Martinez</p>
+</div>
+
 </footer>
 
   <div class="fadeIn"></div>

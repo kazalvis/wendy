@@ -190,6 +190,13 @@ footer {
   left: 0;
   z-index: 99999999; }
 
+.legal-wrapper p {
+  text-align: center;
+  font-family: 'Hind', sans-serif;
+  color: #808080;
+  line-height: 28px;
+  font-size: 12px; }
+
 .clear {
   clear: both; }
 
@@ -329,9 +336,6 @@ footer {
       font-size: 26px;
       line-height: 42px; }
 
-  .thumb-wrapper {
-    width: calc(100% - 40px); }
-
   .intro-heading,
   .intro-copy {
     width: 100%; }
@@ -340,3 +344,10 @@ footer {
   .two-column {
     float: none;
     width: calc(100% - 40px); } }
+@media only screen and (max-width: 414px) {
+  .thumb-wrapper {
+    width: calc(100% - 40px); }
+
+  .homepage-main-content .intro-heading {
+    line-height: 43px;
+    font-size: 30px; } }

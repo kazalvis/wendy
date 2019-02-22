@@ -30,7 +30,7 @@
 	}
 	
 		.thumb-wrapper{
-		    width: calc(100% - 40px);
+		  //  width: calc(100% - 40px);
 	}
 	
 	.intro-heading,
@@ -43,3 +43,16 @@
 		width: calc(100% - 40px); 	
 	}
 }
+
+@media only screen and (max-width: 414px){
+		.thumb-wrapper{
+		    width: calc(100% - 40px);
+		}
+		
+		
+		.homepage-main-content	.intro-heading{
+				    line-height: 43px;
+				    font-size: 30px;
+		}
+	
+	}
